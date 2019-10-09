@@ -1,1 +1,1 @@
-Teste Git e GitHub
+Teste curso Git e GitHub
